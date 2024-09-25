@@ -14,7 +14,7 @@ import (
 	"time"
 )
 
-func lab1() {
+func main() {
 	fmt.Println("Введите номер задания (0 - выход)")
 	var (
 		n    int
